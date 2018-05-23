@@ -1,0 +1,10 @@
+R:\tuvotocuenta\Proyectos\XMLRead-Prueba-01\XMLRead-Prueba-01\ReadJson01\bin\Debug\ReadJson01.exe.config
+R:\tuvotocuenta\Proyectos\XMLRead-Prueba-01\XMLRead-Prueba-01\ReadJson01\bin\Debug\ReadJson01.exe
+R:\tuvotocuenta\Proyectos\XMLRead-Prueba-01\XMLRead-Prueba-01\ReadJson01\bin\Debug\ReadJson01.pdb
+R:\tuvotocuenta\Proyectos\XMLRead-Prueba-01\XMLRead-Prueba-01\ReadJson01\bin\Debug\Newtonsoft.Json.dll
+R:\tuvotocuenta\Proyectos\XMLRead-Prueba-01\XMLRead-Prueba-01\ReadJson01\bin\Debug\Newtonsoft.Json.xml
+R:\tuvotocuenta\Proyectos\XMLRead-Prueba-01\XMLRead-Prueba-01\ReadJson01\obj\Debug\ReadJson01.csprojAssemblyReference.cache
+R:\tuvotocuenta\Proyectos\XMLRead-Prueba-01\XMLRead-Prueba-01\ReadJson01\obj\Debug\ReadJson01.csproj.CoreCompileInputs.cache
+R:\tuvotocuenta\Proyectos\XMLRead-Prueba-01\XMLRead-Prueba-01\ReadJson01\obj\Debug\ReadJson01.csproj.CopyComplete
+R:\tuvotocuenta\Proyectos\XMLRead-Prueba-01\XMLRead-Prueba-01\ReadJson01\obj\Debug\ReadJson01.exe
+R:\tuvotocuenta\Proyectos\XMLRead-Prueba-01\XMLRead-Prueba-01\ReadJson01\obj\Debug\ReadJson01.pdb
